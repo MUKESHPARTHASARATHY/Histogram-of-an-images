@@ -63,7 +63,7 @@ plt.xlim([0, 256])
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![DIP3 1](https://github.com/user-attachments/assets/9711f2f6-1f57-49dc-b5e9-1f658af07e9a)
+![dip4 1](https://github.com/user-attachments/assets/7c73d803-b928-479d-bba9-c5c6c63049af)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
