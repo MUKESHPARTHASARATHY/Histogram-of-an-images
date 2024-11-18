@@ -74,6 +74,10 @@ plt.xlim([0, 256])
 ### Histogram Equalization of Grayscale Image.
 ![DIP 3 4](https://github.com/user-attachments/assets/fdc6935b-232f-4518-9f1e-2cb4ac3b4dbe)
 
+### GRAYSCALE IMAGE
+
+![372327509-9711f2f6-1f57-49dc-b5e9-1f658af07e9a](https://github.com/user-attachments/assets/55def332-a395-4ac9-9655-c8b8d559fb6a)
+
 
 
 
